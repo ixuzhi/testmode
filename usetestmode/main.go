@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ixuzhi/testmod/v2"
+	"github.com/ixuzhi/testmode/v2"
 )
 
 func main() {

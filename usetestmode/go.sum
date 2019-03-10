@@ -1,0 +1,4 @@
+github.com/ixuzhi/testmode v1.0.0 h1:j+1RgKM2WhaodDbgxFrCHCYIwL0B/8nYLxM7bsoANUs=
+github.com/ixuzhi/testmode v1.0.0/go.mod h1:wCCo1IweiCDtF827Bl5wms7PZp9GoA83HWRQa+Vg+80=
+github.com/ixuzhi/testmode/v2 v2.0.0 h1:63jXCmAxJ6ysT4Zrf9iQuiLP7WVxcakePAW41S4+bSE=
+github.com/ixuzhi/testmode/v2 v2.0.0/go.mod h1:Gf0TT7d0+ZG8/6sjgek4mX6gKVERq3eDomRcIHCVw+E=

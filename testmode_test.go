@@ -7,5 +7,5 @@ import (
 
 func TestTest(t *testing.T) {
 	fmt.Println("testTest")
-	fmt.Println(Hi("testmode"))
+	fmt.Println(Hi("testmode", "ch"))
 }

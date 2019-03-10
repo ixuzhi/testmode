@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/ixuzhi/testmode"
+	"github.com/ixuzhi/testmod/v2"
 )
 
 func main() {
-	fmt.Println(testmode.Hi("user testmode case!"))
+	fmt.Println(testmode.Hi("user testmode case!","ch"))
 }

@@ -1,3 +1,3 @@
-module github.com/ixuzhi/testmod
+module github.com/ixuzhi/testmode
 
 go 1.12

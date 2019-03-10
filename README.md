@@ -1,3 +1,4 @@
+https://roberto.selbach.ca/intro-to-go-modules/  
 go get github.com/ixuzhi/testmode
 
 git tag v1.0.0

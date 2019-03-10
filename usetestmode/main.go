@@ -5,6 +5,6 @@ import (
 	"github.com/ixuzhi/testmode"
 )
 
-func main(){
+func main() {
 	fmt.Println(testmode.Hi("user testmode case!"))
 }

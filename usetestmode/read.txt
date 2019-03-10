@@ -1,0 +1,4 @@
+go get github.com/ixuzhi/testmode
+
+go run usetestmode/main.go
+go run github.com/ixuzhi/testmode/usetestmode
